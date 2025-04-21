@@ -53,10 +53,11 @@
 
 
 ## Output:
+![WhatsApp Image 2025-04-21 at 3 49 15 PM](https://github.com/user-attachments/assets/c2720c3f-b9dd-43a6-ada6-9c91b116983d)
+![empdexp1](https://github.com/user-attachments/assets/76cb81fd-2de3-4d39-a27f-b2bd2c1bf96e)
 
-
-### Name:
-### Register Number: 
+### Name: Harisha S
+### Register Number: 212224230087
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
